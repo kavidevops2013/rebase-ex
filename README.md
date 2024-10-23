@@ -1,4 +1,4 @@
 # rebase-ex
  featurerebase
 
- c
+ cd
