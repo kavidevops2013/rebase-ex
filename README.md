@@ -2,3 +2,5 @@
  featurerebase
 
  cd
+
+ merge
